@@ -33,3 +33,7 @@ The Challenge has three parts:
 ## Solution
 
 The solution is in the Jupyter Notebook file '[retrieve_movie_data.ipynb](https://github.com/JimGile/data-sourcing-challenge/blob/main/retrieve_movie_data.ipynb)'.
+
+## References
+
+[NYT Article Search "Try this API"](https://developer.nytimes.com/docs/articlesearch-product/1/routes/articlesearch.json/get)
