@@ -32,8 +32,13 @@ The Challenge has three parts:
 
 ## Solution
 
-The solution is in the Jupyter Notebook file '[retrieve_movie_data.ipynb](https://github.com/JimGile/data-sourcing-challenge/blob/main/retrieve_movie_data.ipynb)'.
+* Jupyter Notebook file: [retrieve_movie_data.ipynb](https://github.com/JimGile/data-sourcing-challenge/blob/main/retrieve_movie_data.ipynb).
+* Output file: [tmdb_nyt_movie_reviews.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/tmdb_nyt_movie_reviews.csv).
+* NOTE: These two csv files were saved off so that I didn't have to run the API's every time.
+  * [reviews_df.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/reviews_df.csv)
+  * [tmdb_movies_list_df.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/tmdb_movies_list_df.csv)
 
 ## References
 
-[NYT Article Search "Try this API"](https://developer.nytimes.com/docs/articlesearch-product/1/routes/articlesearch.json/get)
+* [NYT Article Search "Try this API"](https://developer.nytimes.com/docs/articlesearch-product/1/routes/articlesearch.json/get)
+* [TMDB Search Documentation](https://developer.themoviedb.org/docs/search-and-query-for-details)
