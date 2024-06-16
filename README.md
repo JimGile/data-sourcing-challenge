@@ -35,8 +35,8 @@ The Challenge has three parts:
 * Jupyter Notebook file: [retrieve_movie_data.ipynb](https://github.com/JimGile/data-sourcing-challenge/blob/main/retrieve_movie_data.ipynb).
 * Output file: [tmdb_nyt_movie_reviews.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/tmdb_nyt_movie_reviews.csv).
 * NOTE: These two csv files were saved off so that I didn't have to run the API's every time.
-  * [reviews_df.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/reviews_df.csv)
-  * [tmdb_movies_list_df.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/tmdb_movies_list_df.csv)
+  * [nyt_reviews_df.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/nyt_reviews_df.csv)
+  * [tmdb_movies_df.csv](https://github.com/JimGile/data-sourcing-challenge/blob/main/output/tmdb_movies_df.csv)
 
 ## References
 
